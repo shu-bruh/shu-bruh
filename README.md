@@ -28,4 +28,4 @@ Collaborated on open-source hardware designs, IP integration, and complex RTL im
 
 * Email: shubhrajha2005@gmail.com
 * GitHub: github.com/shu-bruh
-* Instagram: instagram.com/shubhrajha
+* Instagram: [instagram.com/shubhrajha](https://www.instagram.com/shu_bruh_/)
