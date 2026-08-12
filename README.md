@@ -1,7 +1,7 @@
 Shubhra Jha
 Electronics and Communication Engineering student at Vellore Institute of Technology, specializing in full-custom VLSI design, embedded systems, and analog/digital signal processing. My core expertise spans across RTL design, FPGA prototyping, and modern hardware verification methodologies (UVM).
 
-Currently, I serve as a Hardware Engineering & Signal Processing Collaborator for the Army Design Bureau, where I architect and deploy RF Systems and Signal Classification pipelines on Xilinx Zynq SoCs. Alongside my engineering pursuits, I have successfully scaled and currently manage a digital lifestyle community of over 1,000,000 followers, driving large-scale content strategy and brand partnerships.
+Currently, I serve as a Hardware Engineering & Signal Processing Collaborator for the Army Design Bureau, where I architect and deploy RF Systems and Signal Classification pipelines on Xilinx Zynq SoCs. Alongside my engineering pursuits, I have successfully scaled and currently manage a digital lifestyle community of over 800,000 followers, driving large-scale content strategy and brand partnerships.
 
 Technical Expertise
 Hardware & VLSI: RTL Design, Full-Custom/Mixed-Signal IC Design, FPGA Prototyping (Xilinx Zynq), Microarchitecture
