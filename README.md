@@ -12,9 +12,6 @@ Currently, I serve as a Hardware Engineering & Signal Processing Collaborator fo
 
 ## Key Open Source & Hardware Contributions
 
-### [RISC-V Out-of-Order Core](https://github.com/devtyagi3909/riscv-ooo-core) (1st Place & Special Jury Award - SanDisk Hardware Hackathon)
-Contributed to the development of a full superscalar RV32I out-of-order processor featuring Tomasulo's Algorithm and a 7-stage pipeline. Assisted with robust hardware verification utilizing UVM testbenches to ensure the functional correctness of the complex microprocessor architecture.
-
 ### [Constraint Forge](https://github.com/devtyagi3909/constraintforge)
 Developed a production-grade FPGA timing constraint library explicitly tailored for high-performance Xilinx UltraScale+ architectures. Authored modular, parametric XDC templates to accelerate timing closure and streamline high-speed digital design workflows.
 
