@@ -12,9 +12,6 @@ Currently, I serve as a Hardware Engineering Collaborator for the Army Design Bu
 
 ## Key Hardware & Collaborative Contributions
 
-### [RISC-V Out-of-Order Core](https://github.com/devtyagi3909/riscv-ooo-core) (1st Place & Special Jury Award - SanDisk Hardware Hackathon)
-Collaborated on a superscalar RV32I processor, bringing deep hardware insights to ensure robust physical integration. Assisted in rigorous verification and system-level checks to validate the complex microprocessor architecture.
-
 ### [Constraint Forge](https://github.com/devtyagi3909/constraintforge)
 Contributed to a production-grade timing constraint library, ensuring strict compliance with high-performance physical design requirements and streamlining advanced digital and mixed-signal workflows.
 
